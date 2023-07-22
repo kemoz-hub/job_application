@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/drawable/background.xml" value="0.139" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/drawable/ic_baseline_filter_list_24.xml" value="0.139" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.139" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/drawable/ic_baseline_people_24.xml" value="0.139" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.139" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/drawable/login.xml" value="0.139" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/drawable/view.xml" value="0.139" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_about.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_analysis.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_applicants.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_applicants_account.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_application_page.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_availblejob.xml" value="0.14" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_company.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_drawer_base.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_drawerbase.xml" value="0.18" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_drawerbase2.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_employee.xml" value="0.1640625" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_employer.xml" value="0.2" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_empreports.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_forgotpassword.xml" value="0.184375" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_jobreview.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_main2.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_managejobs.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_manageusers.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_notification.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_postjob.xml" value="0.15" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_registerusers.xml" value="0.22" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_reports.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_review_j.xml" value="0.25" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_review_job.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/activity_statusactivity.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/adminchangepass.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/app_bar_drawer.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/applicantstatus.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/content.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/content_drawer.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/content_layout.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/contentlayout.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/dropdown.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/fragment_availablejobsf.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/fragment_jobs.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/fragment_main.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/fragment_post.xml" value="0.1734375" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/fragment_profile_activity.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/fragment_profilef.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/fragment_registercompany.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/fragment_status.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/fragment_statusf.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/header.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/jobsavailable.xml" value="0.2" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/main_drawer_header.xml" value="0.16" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/main_drawer_menu.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/maindrawer.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/maindrawerheader.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/manageusers.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/menu_navigation.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/more.xml" value="0.15" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/morea.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/nav_header_drawer.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/notifyme.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/profileapply.xml" value="0.22" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/reviewjob.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/updatestatus.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/layout/viewprofile.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/menu/activity_drawer_drawer.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/menu/bottom.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/menu/bottom_navigation_admin.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/menu/bottom_navigation_employee.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/menu/botton_navigation_employer.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/menu/drawer.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/menu/main_drawer_menu.xml" value="0.18" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1185" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/jobapplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1185" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

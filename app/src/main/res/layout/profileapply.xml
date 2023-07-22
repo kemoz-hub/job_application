@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".profile">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        app:cardBackgroundColor="@color/teal_200"
+        app:cardCornerRadius="24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="6dp">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/id_noA"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:backgroundTint="@color/teal_200"
+                            android:drawablePadding="6dp"
+                            android:editable="false"
+                            android:hint="id number"
+                            android:paddingStart="6dp"
+                            android:paddingEnd="6dp" />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:editable="false">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/mFullNameA"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:backgroundTint="@color/teal_200"
+                            android:drawablePadding="6dp"
+                            android:editable="false"
+                            android:focusable="false"
+                            android:hint="Fullname"
+                            android:inputType="textPersonName"
+                            android:paddingStart="6dp"
+                            android:paddingEnd="6dp" />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="6dp">
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <com.google.android.material.textfield.TextInputEditText
+                                android:id="@+id/skillsA"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@color/teal_200"
+                                android:editable="false"
+                                android:focusable="false"
+                                android:hint="deadline" />
+                        </com.google.android.material.textfield.TextInputLayout>
+
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <com.google.android.material.textfield.TextInputEditText
+                                android:id="@+id/mphoneA"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@color/teal_200"
+                                android:editable="false"
+                                android:focusable="false"
+                                android:hint="phone number" />
+                        </com.google.android.material.textfield.TextInputLayout>
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/companyU"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/teal_200"
+                            android:editable="false"
+                            android:focusable="false"
+                            android:hint="company name" />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="6dp"
+                        android:layout_marginBottom="24dp">
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="6dp"
+                            >
+
+                            <com.google.android.material.textfield.TextInputEditText
+                                android:id="@+id/job_categoryA"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:backgroundTint="@color/teal_200"
+                                android:drawablePadding="6dp"
+                                android:editable="false"
+                                android:focusable="false"
+                                android:focusableInTouchMode="false"
+                                android:hint="job category"
+                                android:paddingStart="6dp"
+                                android:paddingEnd="6dp" />
+                        </com.google.android.material.textfield.TextInputLayout>
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="6dp">
+
+                            <com.google.android.material.textfield.TextInputEditText
+                                android:id="@+id/educationA"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:backgroundTint="@color/teal_200"
+                                android:clickable="true"
+                                android:drawablePadding="6dp"
+                                android:focusable="true"
+                                android:focusableInTouchMode="false"
+                                android:hint="Education level"
+                                android:paddingStart="6dp"
+                                android:paddingEnd="6dp" />
+                        </com.google.android.material.textfield.TextInputLayout>
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="6dp">
+
+                            <com.google.android.material.textfield.TextInputEditText
+                                android:id="@+id/coverletter"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:backgroundTint="@color/teal_200"
+                                android:clickable="true"
+                                android:editable="false"
+                                android:visibility="visible"
+                                android:focusable="false"
+                                android:inputType="textMultiLine"
+                                android:drawablePadding="6dp"
+                                android:hint="attached resume and cover letter "
+                                android:paddingStart="6dp"
+                                android:paddingEnd="6dp" />
+                        </com.google.android.material.textfield.TextInputLayout>
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="6dp">
+
+                            <com.google.android.material.textfield.TextInputEditText
+                                android:id="@+id/empid"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:backgroundTint="@color/teal_200"
+                                android:clickable="true"
+                                android:editable="false"
+                                android:focusable="false"
+                                android:visibility="gone"
+                                android:inputType="textMultiLine"
+                                android:drawablePadding="6dp"
+                                android:paddingStart="6dp"
+                                android:paddingEnd="6dp" />
+                        </com.google.android.material.textfield.TextInputLayout>
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="6dp">
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:id="@+id/empidrt"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginTop="6dp"
+                            android:hint="gender"><![CDATA[>
+
+
+
+
+
+
+
+
+
+
+                        ]]>
+
+
+
+
+
+                        </com.google.android.material.textfield.TextInputLayout>
+
+                        <com.google.android.material.textfield.TextInputEditText
+
+                            android:id="@+id/date_pickerA"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:backgroundTint="@color/teal_200"
+                            android:drawablePadding="6dp"
+                            android:focusable="false"
+                            android:editable="false"
+                            android:hint="date graduated"
+                            android:paddingStart="6dp"
+                            android:paddingEnd="6dp" />
+
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="6dp">
+
+                    <com.google.android.material.textfield.TextInputEditText
+
+                        android:id="@+id/myskills"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:backgroundTint="@color/teal_200"
+                        android:drawablePadding="6dp"
+                        android:hint="skills"
+                        android:visibility="gone"
+                        android:editable="false"
+                        android:focusable="false"
+                        android:paddingStart="6dp"
+                        android:paddingEnd="6dp" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="6dp">
+
+                        <com.google.android.material.textfield.TextInputEditText
+
+                            android:id="@+id/gender"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:backgroundTint="@color/teal_200"
+                            android:drawablePadding="6dp"
+                            android:hint="gender"
+                            android:editable="false"
+                            android:focusable="false"
+                            android:paddingStart="6dp"
+                            android:paddingEnd="6dp" />
+
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/mEmailA"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:backgroundTint="@color/teal_200"
+                        android:drawablePadding="6dp"
+                        android:editable="false"
+                        android:focusable="false"
+                        android:hint="Email"
+                        android:inputType="textEmailAddress"
+                        android:paddingStart="6dp"
+                        android:paddingEnd="6dp" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <Button
+                    android:id="@+id/pupdateA"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="apply job" />
+
+            </LinearLayout>
+
+        </ScrollView>
+    </androidx.cardview.widget.CardView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
